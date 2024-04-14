@@ -1,3 +1,10 @@
+pypdf 
+langchain 
+ctransformers 
+torch 
+accelerate 
+transformers 
+sentence_transformers 
+faiss_cpu 
+bitsandbytes 
 flask
-transformers
-torch
